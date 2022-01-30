@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ggacusan10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey everyone👋🏽! I'm Gillian! ☕️
 
-<!---
-ggacusan10/ggacusan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 software engineer for Duo Security
+
+💚 passionate about diversity and inclusion
+
+🛹 skateboarder
+
+📚 avid learner and teacher
+
+---
+
+### 👾 Languages / Technologies
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggacusan10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### 📬 Reach me at
+
