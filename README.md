@@ -4,6 +4,8 @@
 
 💚 passionate about diversity and inclusion
 
+🎵 musician
+
 🛹 skateboarder
 
 📚 avid learner and teacher
