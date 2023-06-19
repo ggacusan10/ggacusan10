@@ -6,8 +6,6 @@
 
 🎵 musician
 
-🛹 skateboarder
-
 📚 avid learner and teacher
 
 ---
