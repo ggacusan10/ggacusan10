@@ -2,9 +2,7 @@
 
 💻 software engineer for Duo Security
 
-💚 passionate about diversity and inclusion
-
-🎵 musician
+🚀 building projects that are impactful and enlightening
 
 📚 avid learner and teacher
 
