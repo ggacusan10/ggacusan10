@@ -11,7 +11,7 @@
 ---
 
 ### Game Development Projects 👾
-(Coming Soon) https://mango-bytes.itch.io/ (games sweet like mango made with computer bits) 🥭
+https://mango-bytes.itch.io/ (games sweet like mango made with computer bits) 🥭
 
 ---
 
