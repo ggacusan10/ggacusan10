@@ -10,7 +10,21 @@
 
 ---
 
+### 💻 Career Projects
+Currently I'm at Duo working on threat detection features like [Risk-based Authentication](https://duo.com/docs/risk-based-auth) and [Duo Trust Monitor](https://duo.com/docs/trust-monitor#overview). 
+
+Here are some of the features that I worked on:
+- 📄 Enhanced [reporting for Risk-based Authentication](https://duo.com/docs/risk-based-auth#risk-based-policy-assessment)
+- ✉️ Implemented [email notification support for Duo Trust Monitor
+](https://duo.com/docs/trust-monitor#security-event-notifications)
+- 🛠️ Collaborated on building [Risk-based Remembered Devices](https://duo.com/docs/risk-based-auth#risk-based-remembered-devices) and [Risk-based Factor Selection](https://duo.com/docs/risk-based-auth#risk-based-factor-selection)
+
+---
+
 ### Game Development Projects 👾
+
+Outside of work, I like to make games :))
+
 https://mango-bytes.itch.io/ _games sweet like mango made with computer bits_ 🥭
 
 Check out my latest game!
