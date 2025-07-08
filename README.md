@@ -11,7 +11,7 @@
 ---
 
 ### 💻 Career Projects
-Currently I'm at Duo working on threat detection features like [Risk-based Authentication](https://duo.com/docs/risk-based-auth) and [Duo Trust Monitor](https://duo.com/docs/trust-monitor#overview). 
+Currently I'm at Duo Security in Cisco Systems working on threat detection features like [Risk-based Authentication](https://duo.com/docs/risk-based-auth) and [Duo Trust Monitor](https://duo.com/docs/trust-monitor#overview). 
 
 Here are some of the features that I worked on:
 - ✉️ Implemented [email notification support for Duo Trust Monitor
