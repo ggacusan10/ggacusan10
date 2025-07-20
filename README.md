@@ -14,7 +14,7 @@
 Currently I'm at Duo Security in Cisco Systems working on threat detection features like [Cisco Identity Intelligence](https://duo.com/docs/identity-security) (formerly known as Oort). Previously worked on [Risk-based Authentication](https://duo.com/docs/risk-based-auth) and [Duo Trust Monitor](https://duo.com/docs/trust-monitor#overview). 
 
 Here are some of the features that I worked on:
-- 🤖 Collaborated on adding various tools to the [Duo AI Assistant](https://duo.com/docs/ai-assistant#use-the-ai-assistant) that can allow it to answer questions related to security posture.
+- 🤖 Collaborated on adding various tools to the [Duo AI Assistant](https://duo.com/docs/ai-assistant#use-the-ai-assistant) that can allow it to answer questions related to user security posture
 - 📬 Implemented [email notification support for Duo Trust Monitor
 ](https://duo.com/docs/trust-monitor#security-event-notifications)
 - 📝 Enhanced [reporting for Risk-based Authentication](https://duo.com/docs/risk-based-auth#risk-based-policy-assessment)
